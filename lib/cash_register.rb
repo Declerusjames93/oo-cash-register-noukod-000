@@ -6,6 +6,6 @@ def initialize(item)
   @item = item
   @quantity = quantity
   @price = price
-  @total = 0
+
 end
 end
